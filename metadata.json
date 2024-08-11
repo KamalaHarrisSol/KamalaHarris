@@ -1,0 +1,12 @@
+{
+  "name": "Kamala Harris",
+  "symbol": "HARRIS",
+  "uri": "",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "6Jx7iEm5idxCb4RCkMg9gDbEWGgtQetEkh9U33tHWwPk",
+      "share": 10000
+    }
+  ]
+}
